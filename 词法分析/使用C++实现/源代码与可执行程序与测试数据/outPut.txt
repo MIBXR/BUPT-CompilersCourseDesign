@@ -1,0 +1,51 @@
+Token stream:32
+sign		attribute
+pretrt		#include <stdio.h>
+		int
+		main
+delimi		(
+delimi		)
+delimi		{
+		int
+assin		=
+num		1
+delimi		;
+		float
+id		i
+assin		=
+num		1.2
+delimi		;
+id		_b
+assin		=
+id		c
+opera		+
+id		i
+delimi		;
+id		printf
+delimi		(
+str		"Hello world"
+delimi		)
+delimi		;
+annota		// this ia a line of annotation
+annota		/* this is sevel lines of
+	annotationsssss*/
+		return
+num		0
+delimi		;
+delimi		}
+
+Symbol table:4
+i
+_b
+c
+printf
+
+Errors:2
+line		tokem		Inf
+4		2a		Identifier starts with a number
+12		^		Unrecognized symbol
+
+Total number of rows: 13
+Total characters: 192
+Total valid characters: 146
+Total words: 4

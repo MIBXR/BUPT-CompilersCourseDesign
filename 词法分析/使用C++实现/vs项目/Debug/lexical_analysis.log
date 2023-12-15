@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\87290\Desktop\PROGRAM\bianyi2\lexical_analysis\main.cpp(141,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\87290\Desktop\PROGRAM\bianyi2\lexical_analysis\main.cpp(679,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\87290\Desktop\PROGRAM\bianyi2\lexical_analysis\main.cpp(708,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\87290\Desktop\PROGRAM\bianyi2\lexical_analysis\main.cpp(718,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\87290\Desktop\PROGRAM\bianyi2\lexical_analysis\main.cpp(730,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\87290\Desktop\PROGRAM\bianyi2\lexical_analysis\main.cpp(674): warning C4715: “lexical_analysis”: 不是所有的控件路径都返回值
+  lexical_analysis.vcxproj -> C:\Users\87290\Desktop\PROGRAM\bianyi2\lexical_analysis\Debug\lexical_analysis.exe

@@ -1,0 +1,23 @@
+Token stream: 11
+sign		attribute
+delimi		(
+num		12
+opera		+
+num		34
+delimi		)
+opera		*
+num		5
+opera		-
+num		6
+opera		/
+num		8
+
+Symbol table:0
+
+Errors:0
+line		tokem		Inf
+
+Total number of rows: 0
+Total characters: 13
+Total valid characters: 13
+Total words: 0

@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+	int 2a = 1;
+	float i =1.2;
+	_b = c + i;
+	printf("Hello world");
+	// this ia a line of annotation
+	/* this is sevel lines of
+	annotationsssss*/
+	return 0;
+	^
+}
